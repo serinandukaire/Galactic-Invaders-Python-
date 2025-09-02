@@ -3,6 +3,6 @@ Pygame Game
 
 Galactic Invaders Pygame Edition
 
-## TO DO##
+## TO DO
 - [ ] Create assets folder
 - [ ] Fix bugs
